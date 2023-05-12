@@ -1,4 +1,4 @@
-package pl.coderslab;
+package main.pl.coderslab.java.view;
 
 
 /**
